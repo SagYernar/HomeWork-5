@@ -1,0 +1,6 @@
+c:\users\сагадиеве\documents\visual studio 2017\Projects\ConsoleApp31\ConsoleApp31\bin\Debug\ConsoleApp31.exe.config
+c:\users\сагадиеве\documents\visual studio 2017\Projects\ConsoleApp31\ConsoleApp31\bin\Debug\ConsoleApp31.exe
+c:\users\сагадиеве\documents\visual studio 2017\Projects\ConsoleApp31\ConsoleApp31\bin\Debug\ConsoleApp31.pdb
+c:\users\сагадиеве\documents\visual studio 2017\Projects\ConsoleApp31\ConsoleApp31\obj\Debug\ConsoleApp31.csprojResolveAssemblyReference.cache
+c:\users\сагадиеве\documents\visual studio 2017\Projects\ConsoleApp31\ConsoleApp31\obj\Debug\ConsoleApp31.exe
+c:\users\сагадиеве\documents\visual studio 2017\Projects\ConsoleApp31\ConsoleApp31\obj\Debug\ConsoleApp31.pdb
